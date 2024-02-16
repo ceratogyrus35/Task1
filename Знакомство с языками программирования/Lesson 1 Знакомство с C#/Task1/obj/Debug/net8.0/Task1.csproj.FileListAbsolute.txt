@@ -1,0 +1,14 @@
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/bin/Debug/net8.0/Task1
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/bin/Debug/net8.0/Task1.deps.json
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/bin/Debug/net8.0/Task1.dll
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/bin/Debug/net8.0/Task1.pdb
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.dll
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/refint/Task1.dll
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.pdb
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task1/obj/Debug/net8.0/ref/Task1.dll
