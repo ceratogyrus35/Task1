@@ -1,0 +1,15 @@
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/bin/Debug/net8.0/Task2
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/bin/Debug/net8.0/Task2.deps.json
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/bin/Debug/net8.0/Task2.dll
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/bin/Debug/net8.0/Task2.pdb
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.dll
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/refint/Task2.dll
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.pdb
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/home/aleksey/Документы/Програмирование/Знакомство с языками программирования/Lesson 1 Знакомство с C#/Task2/obj/Debug/net8.0/ref/Task2.dll
